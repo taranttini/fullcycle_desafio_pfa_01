@@ -2,7 +2,7 @@
 
 Projeto do desafio PFA criando imagens docker sem fazer uso do docker-composer
 
-O Projeto de API foi em go para servir como base de estudo inicial da linguagem
+O Projeto de API foi em golang para servir como base de meus estudos iniciais na linguagem GO
 
 ## Rodando imagens
 
@@ -58,7 +58,7 @@ echo 'servicos iniciados acesse http://localhost/api/modules'
 
 **OBS**
 
-*O PUT, POST e DELETE necessita de uma ferramenta tipo **POSTMAN**, **INSOMINA**, ou linha de comando **curl** para execução das rotas*
+*O PUT, POST e DELETE necessita de uma ferramenta tipo **POSTMAN**, **INSOMNIA**, ou linha de comando **curl** para execução das rotas*
 
 ## Criando imagens se necessário reconstruir os containters
 
