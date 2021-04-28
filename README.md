@@ -60,6 +60,8 @@ echo 'servicos iniciados acesse http://localhost/api/modules'
 
 *O PUT, POST e DELETE necessita de uma ferramenta tipo **POSTMAN**, **INSOMNIA**, ou linha de comando **curl** para execução das rotas*
 
+Caso use *VSCODE*, instale o plugin https://marketplace.visualstudio.com/items?itemName=humao.rest-client, e na pasta `/go/fullcycleservice/rest/api.rest` existe o arquivo já pronto para uso.
+
 ## Criando imagens se necessário reconstruir os containters
 
 No terminal digite os seguintes comandos
