@@ -1,6 +1,8 @@
 # Executando o projeto
 
-Projeto do desafio PFA  estudo sem fazer uso do docker-composer
+Projeto do desafio PFA criando imagens docker sem fazer uso do docker-composer
+
+O Projeto de API foi em go para servir como base de estudo inicial da linguagem
 
 ## Rodando imagens
 
